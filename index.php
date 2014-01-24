@@ -1,3 +1,3 @@
-asda ds dsd sa asda dads as d<?php 
+edaaannn <?php 
     phpinfo();
 ?>
