@@ -1,3 +1,3 @@
-edaaannn <?php 
+edaaannn cuy <?php 
     phpinfo();
 ?>
